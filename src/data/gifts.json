@@ -1,0 +1,16 @@
+{
+  "gifts": [
+    { "id": 1, "name": "Pañales talla RN", "description": "Pañales para recién nacido", "icon": "Baby" },
+    { "id": 2, "name": "Toallas húmedas", "description": "Paquetes de toallitas para bebé", "icon": "Droplets" },
+    { "id": 3, "name": "Mantas suaves", "description": "Mantas de algodón para bebé", "icon": "Blanket" },
+    { "id": 4, "name": "Biberones", "description": "Set de biberones anti-cólico", "icon": "Milk" },
+    { "id": 5, "name": "Ropita talla 0-3", "description": "Bodys, pijamas y conjuntos", "icon": "Shirt" },
+    { "id": 6, "name": "Cremas para bebé", "description": "Cremas hidratantes y para pañal", "icon": "Sparkles" },
+    { "id": 7, "name": "Juguetes sensoriales", "description": "Juguetes para estimulación temprana", "icon": "Puzzle" },
+    { "id": 8, "name": "Chupetes", "description": "Chupetes ortodónticos", "icon": "CircleDot" },
+    { "id": 9, "name": "Mordedores", "description": "Mordedores refrigerantes", "icon": "CircleOff" },
+    { "id": 10, "name": "Cambiador portátil", "description": "Cambiador plegable para pañales", "icon": "LayoutGrid" },
+    { "id": 11, "name": "Termómetro digital", "description": "Termómetro para bebés", "icon": "Thermometer" },
+    { "id": 12, "name": "Monitor de bebé", "description": "Monitor de audio o video", "icon": "Radio" }
+  ]
+}
